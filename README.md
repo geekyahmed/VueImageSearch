@@ -1,2 +1,0 @@
-# VueImageSearch
-Created with CodeSandbox
